@@ -5,7 +5,7 @@ Psicóloga y doctoranda en Neurociencias (CONICET) en transición a **ciencia de
 - 🎓 Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones · FAMAF-UNC (Diplodatos)
 - 🎓 Diplomatura en Data Science & Machine Learning · ICARO-UNC
 - ☁️ [AWS Academy Machine Learning Foundations](https://www.credly.com/badges/ee7cc368-a5fa-4052-b05c-6eea1aaf3083)
-- 🔬 Investigadora en INIMEC-CONICET-UNC: diseño experimental, análisis estadístico y comunicación de resultados
+- 🔬 Doctoranda en Neurociencias INIMEC-CONICET-UNC: diseño experimental, análisis estadístico y comunicación de resultados
 - 📍 Córdoba, Argentina · buscando mi primer rol en datos
 
 ---
